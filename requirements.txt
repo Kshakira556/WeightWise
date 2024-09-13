@@ -1,0 +1,9 @@
+# Base dependencies
+kivy==2.2.0
+matplotlib==3.7.1
+
+# Optional: If you use SQLite for local database
+sqlite3
+
+# Optional: If you are using a specific version of Python
+# python==3.9.0

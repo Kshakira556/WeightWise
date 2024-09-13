@@ -1,0 +1,42 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Kivy-specific ignores
+*.kv
+
+# IDE-specific ignores
+.vscode/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+*.swp
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Environment
+.env
+venv/
+env/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# MacOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
