@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WeightWise
 
 **WeightWise** is a Python-based mobile application designed to help users track their weight progress over time. The app supports both manual and automated weight logging, visualizes data in easy-to-understand graphs, and provides weekly and overall analysis of weight changes. Alerts are generated when weight changes deviate significantly from a healthy range.
@@ -140,3 +141,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Xiaomi** for their smart scales and APIs.
 
 ---
+=======
+# WeightWise
+>>>>>>> a5b1bc3557e844bee29e8afb3043d7cfabdf5596
